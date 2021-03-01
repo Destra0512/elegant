@@ -1,0 +1,408 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.jumbotron {
+	height: 700px;
+	background: url('Asset/jumbotron.png') center center / cover no-repeat;
+}
+
+ul li a {
+	font-family: 'Montaga', serif;
+	color: #ffffff !important;
+	margin-left: 60px;
+}
+
+.teks {
+	margin-top: 10%;
+	text-align: center;
+}
+
+.teks h1 {
+	font-family: 'Montaga', serif;
+	color: #ffffff !important;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+}
+
+.teks h3 {
+	font-family: 'Kaushan Script', cursive;
+	color: #ffffff !important;
+	font-size: 6vh;
+}
+
+.teks h5 {
+	font-family: 'Montaga', serif;
+	color: #ffffff !important;
+}
+
+.section2 {
+	height: 100%;
+}
+
+.pengantin {
+	margin-bottom: 14.5%;
+}
+
+.pengantin h4 {
+	margin-top: 5%;
+	font-size: 2rem;
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+	margin-bottom: 7%;
+}
+
+.cowo {
+	text-align: center;
+}
+
+.dan {
+	justify-content: center;
+	align-items: center;
+	font-family: 'Kaushan Script', cursive;
+	color: #24695C;
+	font-size: 6vh;
+}
+
+.dan h1 {
+	font-size: 80px;
+}
+
+.cowo h1 {
+	color: #24695C;
+	font-family: 'Kaushan Script', cursive;
+}
+
+.cowo h3 {
+	color: #7C7C7C;
+	font-family: 'Montaga', serif;
+}
+
+.cewe {
+	text-align: center;
+}
+
+.cowo img {
+	margin-bottom: 10%;
+	width: 100%;
+}
+
+.cewe img {
+	margin-bottom: 10%;
+	width: 100%;
+}
+
+.cewe h1 {
+	color: #24695C;
+	font-family: 'Kaushan Script', cursive;
+}
+
+.cewe h3 {
+	color: #7C7C7C;
+	font-family: 'Montaga', serif;
+}
+
+.bunga1 {
+	position: absolute;
+}
+
+.bunga2 {
+	margin-top: -20%;
+}
+
+.tentang {
+	background-color: #24695C;
+	padding-bottom: 10%;
+}
+
+.tentang h3 {
+	font-size: 6vh;
+	font-family: 'Kaushan Script', cursive;
+	color: white;
+	padding-top: 5%;
+}
+
+.sec3-txt {
+	text-align: center;
+}
+
+.tentang .container {
+	margin-top: 10%;
+	padding-top: 10%;
+	width: 70%;
+	background: #ffffff;
+	border-radius: 30px;
+	padding-bottom: 10%;
+}
+
+.tentang-cowo {
+	left: -10%;
+	position: relative;
+}
+
+.tentang-cowo img {
+	width: 30%;
+}
+
+.desc{
+	margin-left: 5%;
+}
+
+.desc h3 {
+	color: black;
+}
+
+.desc p {
+	font-family: 'Montaga', serif;
+	font-size: 4vh;
+}
+
+.tentang-cewe {
+	right: -10%;
+	position: relative;
+	margin-top: 10%;
+}
+
+.tentang-cewe img {
+	width: 30%;
+}
+
+.how {
+	margin-top: 10%;
+	text-align: center;
+}
+
+.how h4 {
+	font-size: 5vh;
+	font-family: 'Kaushan Script', cursive;
+}
+
+.how p {
+	font-family: 'Montaga', serif;
+	font-size: 3vh;
+}
+
+.sec4-txt {
+	margin-top: 5%;
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+}
+
+.sec4-txt h3 {
+	font-size: 6vh;
+}
+
+.sec4-txt p {
+	font-size: 4vh;
+	margin-top: 5%;
+	font-family: 'Montaga', serif;
+}
+
+.galeri {
+	margin-top: -30%;
+}
+
+.foto img {
+	margin-bottom: 3%;
+	width: 100%;
+}
+
+.foto {
+	margin-bottom: 5%;
+}
+
+.sec5-txt {
+	padding-top: 5%;
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+}
+
+.sec5-txt h3 {
+	color: #ffffff;
+	font-size: 6vh;
+}
+
+.sec5-txt p {
+	margin-top: 3%;
+	font-family: 'Montaga', serif;
+	font-size: 3vh;
+	color: #ffffff;
+}
+
+.map {
+	text-align: center;
+}
+
+.tempat {
+	background: #24695C;
+}
+
+.btn-outline-light {
+	font-family: 'Kaushan Script', cursive;
+}
+
+.btn-outline-light img {
+	width: 10%;
+	margin-right: 5%;
+}
+
+
+
+
+.sec6-txt {
+	padding-top: 5%;
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+}
+
+.sec6-txt h3 {
+	font-size: 6vh;
+	color: #ffffff;
+}
+
+.sec6-txt p {
+	margin-top: 3%;
+	font-family: 'Montaga', serif;
+	font-size: 5vh;
+	color: #ffffff;
+}
+
+.akad {
+	background-image: url(Asset/akad.png);
+	padding-bottom: 25%;
+}
+
+.akad .container {
+	width: 60%;
+}
+
+.countdown {
+	margin-top: 10%;
+	text-align: center;
+	color: #ffffff;
+	background: linear-gradient(171.81deg, rgba(215, 215, 215, 0.4) 7.34%, rgba(215, 215, 215, 0.1) 142.78%);
+	box-shadow: 0px 4px 24px -1px rgba(0, 0, 0, 0.2);
+	backdrop-filter: blur(40px);
+	/* Note: backdrop-filter has minimal browser support */
+	border-radius: 20px;
+}
+
+.countdown p {
+	text-align: center;
+}
+
+#demo {
+	padding: 3%;
+	font-family: 'Montaga', serif;
+	font-size: 40px;
+}
+
+.waktu {
+	font-size: 50px;
+	font-family: 'Montaga', serif;
+}
+
+.akad-card {
+	text-align: center;
+}
+
+.akad-card .container {
+	width: 70%;
+}
+
+.akad-card img {
+	margin-top: -20%;
+	border-radius: 20px;
+}
+
+.thanks {
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+	color: #EEC46B;
+}
+
+.thanks h1 {
+	margin: 5% 0 5% 0;
+	font-size: 8vh;
+}
+
+.thanks img {
+	width: 20%;
+	margin-bottom: 5%;
+}
+
+@media (max-width: 991.98px) {
+	ul li a {
+		margin-left: 10px !important;
+	}
+
+	.bunga1 img {
+		width: 60%;
+	}
+
+	.pengantin h4 {
+		position: relative;	
+		margin-top: 20%;
+	}
+
+	.galeri-bunga img {
+		width: 30%;
+	}
+
+	.tentang-cowo {
+		left: 0;
+		flex-direction: column;
+	}
+
+	.tentang-cowo img {
+		text-align: center;
+		width: 50%;
+	}
+
+	.tentang-cewe {
+		right: 0;
+		flex-direction: column;
+	}
+
+	.tentang-cewe img {
+		width: 50%;
+	}
+
+	.tentang .container {
+		width: 90%;
+	}
+
+	.desc {
+		margin: 0;
+		text-align: center;
+	}
+
+	.desc p {
+		font-size: 3vh;
+	}
+
+	.akad .container {
+		width: 80%;
+	}
+
+	.akad-card .container {
+		width: 100%;
+	}
+
+	#demo {
+		margin: 0 !important;
+		font-size: 2vh;
+	}
+
+	.sec6-txt p {
+		font-size: 3vh;
+	}
+
+	.countdown {
+		border-radius: 10px;
+	}
+
+	.tempat .container {
+		text-align: center;
+	}
+}
